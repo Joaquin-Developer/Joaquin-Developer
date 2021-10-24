@@ -11,7 +11,7 @@ I work with:
 - HTML/CSS/JS, Vue.js, Angular
 - JavaScript in Backend with Node.js
 - Flask and FastAPI (Py)
-- Spark, SQL, Big Data technologies
+- Spark, SQL, and Big Data technologies
 - Python, Java, C# .NET, VB.NET
 
 I wrote programming notes in Notion, You can read them [here](https://mountainous-cello-d41.notion.site/Apuntes-de-Programaci-n-d24dfc550030474fa19e1589b54a400a)
