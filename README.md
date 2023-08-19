@@ -1,35 +1,23 @@
 ### Hello, welcome to mi GitHub! 🤘
 
-📍 My name is Joaquín and I am a full stack developer.
+📍 My name is Joaquín and I am a Data Engineer
 
 🏠 I live in Montevideo, Uruguay🇺🇾
 
-💡 I started programming more than 4 years ago
+💡 I write code since 2016
 
-I work with:
+My stack:
 
-- HTML/CSS/JS, Vue.js, Angular, TypeScript
-- Node.js (Express) in Backend
-- Flask and FastAPI (Py)
-- SQL & MongoDB (NoSql)
+- Web: HTML/CSS/JS/TS, Vue.js, Angular
+- Node.js (Express)
+- Flask and FastAPI (Python)
+- SQL (Oracle, Postgresql, MySQL) & MongoDB
 - Spark, Hadoop, and Big Data technologies
-- Python, Java, C# .NET, VB .NET
+- Python, Java, C/C++, C#/VB .NET, Kotlin, Bash
+- Data tools: AirFlow, Azkaban, Grafana, Prometheus, Tableau, Talend
+- Docker Containers
+- Software Arquitecture & Design
+- Agile methodologies: Scrum
 
 I wrote programming notes in Notion, You can read them [here](https://mountainous-cello-d41.notion.site/Apuntes-de-Programaci-n-d24dfc550030474fa19e1589b54a400a)
 
-
-
-<!--
-**Joaquin-Parrilla/Joaquin-Parrilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
