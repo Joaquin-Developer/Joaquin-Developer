@@ -21,3 +21,4 @@ My stack:
 
 I wrote programming notes in Notion, You can read them [here](https://mountainous-cello-d41.notion.site/Apuntes-de-Programaci-n-d24dfc550030474fa19e1589b54a400a)
 
+Contact me: [joaquin.p.olivera@gmail.com](mailto:joaquin.p.olivera@gmail.com)
