@@ -1,4 +1,4 @@
-### Hello, welcome to mi GitHub! 🤘
+### Hello, welcome to mi GitHub! 
 
 📍 My name is Joaquín and I am a Data Engineer
 
@@ -8,13 +8,13 @@
 
 My stack:
 
-- Web: HTML/CSS/JS/TS, Vue.js, Angular
-- Node.js (Express)
-- Flask and FastAPI (Python)
+- Data Tools: AirFlow, Azkaban, Grafana, Prometheus, Tableau, Talend
+- Spark, Hadoop, Hive and Big Data technologies
 - SQL (Oracle, Postgresql, MySQL) & MongoDB
-- Spark, Hadoop, and Big Data technologies
-- Python, Java, C/C++, C#/VB .NET, Kotlin, Bash
-- Data tools: AirFlow, Azkaban, Grafana, Prometheus, Tableau, Talend
+- Python, Java, C/C++, C#/VB .NET, Kotlin, JavaScript Bash
+- Flask and FastAPI (Python)
+- Web: HTML/CSS/JS/TS, Vue.js, Angular
+- Node.js (Framework Express)
 - Docker Containers
 - Software Arquitecture & Design
 - Agile methodologies: Scrum
