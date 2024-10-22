@@ -15,7 +15,7 @@ My stack:
 - Flask and FastAPI (Python)
 - Web: HTML/CSS/JS/TS, Vue.js, Angular
 - Node.js (Framework Express)
-- Docker Containers
+- Docker Containers, Kubernetes
 - Software Arquitecture & Design
 - Agile methodologies: Scrum
 
