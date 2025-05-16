@@ -1,22 +1,27 @@
+![Joaquin github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joaquin-Developer&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")
+
 ### Hello, welcome to mi GitHub! 
 
-📍 My name is Joaquín and I am a Software Engineer
+📍 My name is Joaquín and I am a Software Engineer. From Montevideo, Uruguay 🇺🇾
 
-🏠 I live in Montevideo, Uruguay🇺🇾
-
-💡 I write code since 2016
+💡 Writing code since 2016
 
 My stack:
 
-- Go, Java, Python, C/C++, C#/VB .NET, Kotlin, JavaScript Bash
-- Data Tools: AirFlow, Azkaban, Grafana, Prometheus, Tableau, Talend
-- Spark, Hadoop, Hive and Big Data technologies
-- SQL (Oracle, Postgresql, MySQL) & MongoDB
-- Flask and FastAPI (Python)
-- SpringBoot (Java)
-- Web: HTML/CSS/JS/TS, Vue.js, Angular
-- Node.js (Framework Express)
-- Docker Containers, Kubernetes
+- Go
+- Python
+  - FastAPI, Flask, Data Libraries
+- Java
+  - SpringBoot  
+- Data Tools
+  - Spark, Hadoop, Hive
+  - AirFlow, Azkaban, Grafana, Prometheus, Tableau
+  - Databases: MySQL, SQLite, PostgreSQL, Oracle, MongoDB, GraphQL
+- Web
+  - HTML, CSS, JS, TS
+  - React.js, Angular
+  - Node.js
+- Docker and Kubernetes
 - Software Arquitecture & Design
 - Agile methodologies: Scrum
 
